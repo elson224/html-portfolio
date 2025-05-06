@@ -1,0 +1,12 @@
+<!-- Example image URL -->
+<h1>It's My Birthday</h1>
+<h2>24th November</h2>
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/birthday-cake3.4.jpeg" />
+<h3>What to bring</h3>
+<ul>
+    <li>Baloons (I LOVE baloons)</li>
+    <li>Video games(I am really good at video games)</li>
+    <li>Food(Food is is my life) </li>
+</ul>
+<!-- Example Google Maps Link -->
+<a href="https://www.waze.com/live-map/directions/gh/volta-region/ho/uhas-permanet-site?to=place.ChIJQWuV7MY7JxAR5kbjGjkHaQg"> Go to google</a>
